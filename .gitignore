@@ -1,0 +1,42 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+env/
+.env
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Large files
+
+*.h5
+*.pth
+*.pt
+*.pkl
+
+# Dataset (do not upload full data)
+
+data/full_dataset/
+dataset/
+
+# Results / outputs
+
+results/
+outputs/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
